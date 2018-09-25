@@ -4,6 +4,55 @@
 	margin: 0 auto;
 }
 .khung .tuan{
+	float: left;
+	width: 100%;
+	height: 75px;
+	background: #33331a;
+
+}
+.tuan .tlogo{
+	float: left;
+	width: 20%;
+	height: 100%;
+	background: orange;
+}
+.tuan .tmenu{
+	float: left;
+	width: 80%;
+	height: 100%;
+	background: #33331a;
+}
+.tlogo img{
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+.tmenu ul{
+	float: left;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.tmenu ul li{
+	float: left;
+	display: block;
+	width: 11%;
+	height: 100%;
+	text-align: center;
+	padding-top: 30px;
+	
+}
+.tmenu ul li a{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+}
+.tmenu li a:hover{
+	color: green;
+
 
 }
 .khung .quan{
