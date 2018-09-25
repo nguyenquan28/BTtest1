@@ -18,4 +18,197 @@
 .khung .hien{
 
 }
-.khung .chi
+.khung .kimchi {
+	width: 100%;
+	height:350px;
+	background: #0a182d;
+	margin: 0 ;
+}
+.kimchi .chi {
+	width: 75%;
+	height:100%;
+	margin: 0 auto;
+	/*background : pink;*/
+}
+.chi .chi1 {
+	float: left;
+	width: 23%;
+	height: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+	/*background:red;*/
+}
+.chi1 h3 {
+	text-align: left;
+	color: orange;
+	text-transform: uppercase;
+
+}
+.chi1 p {
+	color: grey;
+	text-align: left;
+	line-height: 5px;
+	font-size: 15px;
+}
+.chi1 a.clink  {
+	text-align: left;
+	color: blue;
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 5px;
+}
+.chi1 a.clink:hover {
+	color: red;
+}
+.chi1 .cline {
+	width: 100%;
+	height: 1px;
+	background:grey;
+}
+.chi .chi2 {
+	float: left;
+	width: 23%;
+	height: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+	/*background:red;*/
+}
+.chi2 h3 {
+	text-align: left;
+	color: orange;
+	text-transform: uppercase;
+	line-height:21px;
+}
+.chi2 p {
+	color: grey;
+	text-align: left;
+	line-height: 20px;
+	font-size: 14px;
+}
+.chi2 .cline {
+	margin-top: 1px;
+	width: 100%;
+	height: 1px;
+	background :grey;
+}
+.chi2 p.b {
+	color: blue;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: left;
+}
+.chi2 .cline1 {
+	float: left;
+	width: 100%;
+	height: 25px;
+	background:white;
+	border-radius: 5px;
+}
+.chi2 a.clink {
+	float: right;
+	display: block;
+	width: 30%;
+	height: 35px;
+	line-height: 30px;
+	background:blue;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	margin-top:20px;
+}
+.chi2 a.clink:hover {
+	color: red;
+}
+.chi .chi3 {
+	float: left;
+	width: 23%;
+	height: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+	/*background:red;*/
+}
+.chi3 h3 {
+	text-align: left;
+	color: orange;
+	text-transform: uppercase;
+	line-height:21px; 
+}
+.chi3 .chichi {
+	width: 100%;
+	height: 20%;
+	/*background:violet;*/
+	margin-bottom: 4px;
+}
+.chichi .a {
+	float: left;
+	width: 30%;
+	height: 80%;
+	background:white;
+}
+.chichi .b {
+	float: left;
+	width: 68%;
+	height: 80%;
+	margin-left: 2%;
+}
+.b p {
+	color: grey;
+	text-align: left;
+	font-size: 10px;
+	line-height: 1px;
+}
+.b a.clink  {
+	text-align: left;
+	color: blue;
+	font-size: 10px;
+	text-decoration: none;
+}
+.b a.clink:hover {
+	color: red;
+
+}
+.chi3 .cline {
+	width: 100%;
+	height: 1px;
+	background:grey;
+	margin-bottom: 10px;
+}
+.chi .chi4 {
+	float: left;
+	width: 23%;
+	height: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+	/*background:red;*/
+}
+.chi4 h3 {
+	text-align: left;
+	color: orange;
+	text-transform: uppercase;
+	line-height:21px; 
+}
+.chi4 .chibui {
+	width: 100%;
+	height: 20%;
+	/*background: violet;*/
+}
+.chibui .c {
+	float: left;
+	width: 30%;
+	height: 80%;
+}
+.c img {
+	width: 100%;
+	height: 100%;
+}
+.chibui .d {
+	float: left;
+	width: 68%;
+	height: 2%;
+}
+.d p {
+	color: grey;
+	font-size: 14px;
+	line-height: 10px;
+}
