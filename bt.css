@@ -56,6 +56,7 @@
 
 }
 .khung .quan{
+	float: left;
 	width: 100%;
 	height: 400px;
 	background-image: url('https://image.thanhnien.vn/uploaded/2014/ihay.thanhnien.com.vn/pictures20134/luan/1/demhalong1.jpg?width=600');
