@@ -4,14 +4,151 @@
 	margin: 0 auto;
 }
 .khung .tuan{
+	float: left;
+	width: 100%;
+	height: 75px;
+	background: #33331a;
+
+}
+.tuan .tlogo{
+	float: left;
+	width: 20%;
+	height: 100%;
+	background: orange;
+}
+.tuan .tmenu{
+	float: left;
+	width: 80%;
+	height: 100%;
+	background: #33331a;
+}
+.tlogo img{
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+.tmenu ul{
+	float: left;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.tmenu ul li{
+	float: left;
+	display: block;
+	width: 11%;
+	height: 100%;
+	text-align: center;
+	padding-top: 30px;
+	
+}
+.tmenu ul li a{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+}
+.tmenu li a:hover{
+	color: green;
+
 
 }
 .khung .quan{
-
+	float: left;
+	width: 100%;
+	height: 400px;
+	background-image: url('https://image.thanhnien.vn/uploaded/2014/ihay.thanhnien.com.vn/pictures20134/luan/1/demhalong1.jpg?width=600');
+	background-repeat: no-repeat;
+	background-size: 100% 400px;
+	margin-bottom: 20px;
+}
+.quan h1{
+	text-align: center;
+	margin: 0;
+	padding-top: 50px;
+	color: white;
+	text-transform: uppercase;
+}
+.quan p{
+	text-align: center;
+	color: white;
+	padding-left: 15%;
+	padding-right: 15%;
+	font-size: 20px;
+}
+.quan a{
+	display: block;
+	width: 25%;
+	height: 50px;
+	background: orange;
+	color: 	white;
+	text-align: center;
+	line-height: 50px;
+	margin-left: 37%;
+	border-radius: 10px;font-size: 25px;
+	text-decoration: none;
+	margin-top: 50px;
+}
+.quan a:hover{
+	color: red;
+	background: yellow;
 }
 .khung .dang{
-
+	float: left;
+	width: 100%;
+	height: 400px;
+	background: white;
 }
+.dang .dang1{
+	width: 90%;
+	height: 400px;
+	/*background: red;*/
+	margin: 0 auto;
+}
+.dang1 .danga{
+	float: left;
+	width: 23%;
+	height: 400px;
+	/*background: blue;*/
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.danga .dangtop{
+	width: 100%;
+	height:200px; 
+	/*background: yellow;*/
+}
+.danga .dangbot{
+	width: 100%;
+	height:200px; 
+	/*background: pink;*/
+}
+.dangtop img{
+	width: 100%;
+	height: 100%;
+}
+.dangbot h3{
+	color: gray;
+	text-align: center;
+	margin: 0 ;
+	text-transform: uppercase;
+	padding-top: 10px;
+}
+.dangbot p{
+	color: gray;
+	text-align: left;
+	margin: 0;
+	padding-top: 10px;
+	font-size: 18px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.dangbot p a{
+	text-decoration: none;
+}
+
 .khung .viet{
 	width: 100%;
 	height: auto;
